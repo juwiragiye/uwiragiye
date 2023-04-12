@@ -27,11 +27,9 @@ export default {
   footer: {
     text: (
       <span>
-        MIT {new Date().getFullYear()} ©{" "}
-        <a href="https://github.com/juwiragiye/juwiragiye" target="_blank">
-          Janvier Uwiragiye
+        <a href="https://twitter.com/janvitech" target="_blank">
+          © Janvier Uwiragiye.
         </a>
-        .
       </span>
     ),
   },
